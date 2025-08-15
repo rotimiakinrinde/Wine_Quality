@@ -1,0 +1,5 @@
+dsprj/
+*.env
+__pycache__/
+*.pyc
+logs/

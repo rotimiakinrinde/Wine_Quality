@@ -1,0 +1,7 @@
+mlflow==2.10.2
+scikit-learn
+boto3
+pandas
+numpy
+python-dotenv
+setuptools
